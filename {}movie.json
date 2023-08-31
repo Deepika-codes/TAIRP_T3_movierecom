@@ -1,0 +1,43 @@
+
+[
+    {
+        "title": "Inception",
+        "genre": "Science Fiction",
+        "image": "inception.jpg"
+    },
+    {
+        "title": "The Shawshank Redemption",
+        "genre": "Drama",
+        "image": "shawshank_redemption.jpg"
+    },
+    {
+        "title": "Pulp Fiction",
+        "genre": "Crime",
+        "image": "pulp_fiction.jpg"
+    },
+    {
+        "title": "The Dark Knight",
+        "genre": "Action",
+        "image": "dark_knight.jpg"
+    },
+    {
+        "title": "Forrest Gump",
+        "genre": "Drama",
+        "image": "forrest_gump.jpg"
+    },
+    {
+        "title": "The Matrix",
+        "genre": "Science Fiction",
+        "image": "the_matrix.jpg"
+    },
+    {
+        "title": "Fight Club",
+        "genre": "Drama",
+        "image": "fight_club.jpg"
+    },
+    {
+        "title": "The Lord of the Rings: The Fellowship of the Ring",
+        "genre": "Fantasy",
+        "image": "lotr_fellowship.jpg"
+    }
+]
